@@ -1,0 +1,1 @@
+This is a simple weather forecasting web application that allows users to search for any city and view real-time weather information. It fetches live data from a weather API and dynamically updates the UI based on the response.
